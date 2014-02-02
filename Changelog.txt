@@ -1,0 +1,5 @@
+Simple DLL Injector Changelog file
+https://code.google.com/p/simple-dll-injector/
+
+1.0 / 02 Feb 2014
++ First version of Simple DLL Injector has been released.
